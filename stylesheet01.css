@@ -59,6 +59,10 @@ body{
 .profile .bottom .one{
     margin: 25px 0px;
 }
+.profile .bottom .one span{
+    color: hsl(0, 0%, 59%);
+    font-weight: 300;
+}
 .profile .bottom  h2{
     font-size: 18px;
     padding: 10px
